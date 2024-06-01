@@ -6,7 +6,7 @@ const imageMap = {
   games: require('../images/games.jpg'),
   music: require('../images/music.jpg'),
   travel: require('../images/travel.jpeg'),
-  photography: require('../images/photograghy.png'),
+  photography: require('../images/photography.png'),
   study: require('../images/study.png'),
   programing: require('../images/programing.png'),
   creative_arts: require('../images/creative-arts.jpeg'),
