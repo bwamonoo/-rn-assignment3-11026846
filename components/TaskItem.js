@@ -12,7 +12,7 @@ const TaskItem = ({ task }) => {
 const styles = StyleSheet.create({
   taskContainer: {
 		height: 110,
-		width: 330,
+		width: 355,
     padding: 15,
     marginVertical: 5,
     backgroundColor: '#fff',

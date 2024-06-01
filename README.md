@@ -65,13 +65,13 @@ Task Manager is a React Native application designed to help users manage their t
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./screenshots/home.png)
+![Home Screen](./screenshots/home.jpg)
 
 ### Categories
-![Categories](./screenshots/categories.png)
+![Categories](./screenshots/categories.jpg)
 
 ### Ongoing Tasks
-![Ongoing Tasks](./screenshots/tasks.png)
+![Ongoing Tasks](./screenshots/tasks.jpg)
 
 ## Directory Structure
 
